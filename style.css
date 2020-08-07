@@ -85,14 +85,9 @@ time {
 anni {
       font-size: 30px;
       letter-spacing: 0.2px;
-      color: #3e3e3e;
+      color: #000000;
 }
 
-clockk {
-      font-size: 30px;
-      letter-spacing: 0.2px;
-      color: #3e3e3e;
-}
 
 #info .one {
       grid-column: 3 / 6;
